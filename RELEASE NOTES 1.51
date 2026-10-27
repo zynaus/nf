@@ -1,0 +1,30 @@
+# NF 1.51 – NotFox for Android and Fire TV
+
+Kodi 21.3 repackaged with notfox 4.5.2, IPTV Simple, InputStream Adaptive and Elementum built in. It installs as its own app, next to Kodi rather than over it.
+
+## Downloads
+- NF.apk: phones and tablets (64-bit Android)
+- NF-firetv.apk: Fire TV Stick and other 32-bit devices
+
+Installing over an earlier NF keeps your setup.
+
+## What's new in 1.51
+- NF checks this page for updates by itself once a day and offers each new version.
+
+## Also in 1.50
+- The profile picture in the corner of the home screen can be turned off: ACTIVE > Profiles > Profile Picture in the Corner.
+
+## Also in 1.49
+- Continue Watching and My List on ON DEMAND, and Add to My List on every film and show
+- Filters for Movies and TV Shows (rating, years, language), set for each profile
+- Next episode offered when an episode ends
+- Channel banner MENU: Record, Record Every Episode, Reminder, Favourite
+- Catch-up from the guide, on channels whose stream supports it
+- Kids profiles (Kids & Family only, no torrents), profile PINs, your own pictures, text size for each profile
+- Hide a channel just for your profile
+- Cloud Sync recovery code; reminders, series recordings, My List and filters now sync
+- Faster lists, Memory Saver on Fire TV, a smaller app, a low-space warning
+- Sources Health page, and dead torrent sources retried weekly
+- Help pages and a TV-friendly first run
+
+Only add channel lists and torrent sources you have the right to use.
